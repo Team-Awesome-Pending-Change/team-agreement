@@ -46,11 +46,11 @@
 
 4. **Hayden Cooper:**
 
-    **Key Strengths**:
+    **Key Strengths**: *Time Management, Project Planning, Presenting*
 
-    **Utilization**:
+    **Utilization**: *I Hayden Cooper will utilize the skills above to help in the guidance of this team project, with my ability to time manage well we can be able to properly time manage and develop a functional app in the time allotted.*
 
-    **Professional Competencies to Develop**:
+    **Professional Competencies to Develop**: *Hayden Cooper's development will start and end with a better understanding of coding overview with a guided session from a much better developer Reed Vogt and allow a more functional understanding of how to flow and generate a structure in the coding process.*
 
 5. **Ryan Eastman:**
 
