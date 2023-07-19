@@ -11,6 +11,8 @@
 
 **_This document outlines our team's strengths, the ways we plan to utilize them for project execution, our professional development goals, and how we plan to approach our daily work._**
 
+![Team](https://media.giphy.com/media/muGYyrWwxOOMo/giphy.gif)
+
 ## Team Members
 
 1. Reed Voght
