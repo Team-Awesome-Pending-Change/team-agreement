@@ -31,11 +31,11 @@
 
 2. **Reece Renninger:**
 
-    **Key Strengths**:
+    **Key Strengths**: *Communication, Leadership, Collaboration, Planning, Critical Thinking*
 
-    **Utilization**:
+    **Utilization**: Reece will utilize his leadership and communication to ensure everyone is heard within the group while adhering to our schedule for development timeline. 
 
-    **Professional Competencies to Develop**:
+    **Professional Competencies to Develop**: Reece will prioritize enhancing his technical skills primarily on the back end of the application.
 
 3. **Kao Saelor:**
 
