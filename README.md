@@ -4,6 +4,7 @@
 
 - **Project Name:** Awesome-Pending-Change
 - **Project Type:** Full Stack e-Commerce Website that allows users to purchase decks of cards, either individually or as a deck. A stretch goal is to implement a deck builder feature that allows users to create their own desired decks.
+- **Project Management:** [Trello](https://trello.com/b/9QX6ZQ8X/awesome-pending-change) <-- update this link with actual trello board link
 - **Tools Utilized:** (will update as we build) React
 
 ## Team Agreement
