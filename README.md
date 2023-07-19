@@ -39,11 +39,11 @@
 
 3. **Kao Saelor:**
 
-    **Key Strengths**:
+    **Key Strengths**: *Analytical Thinking, Problem-Solving, Attention to Detail, and Business Acumen.*
 
-    **Utilization**:
+    **Utilization**: *Kao will leverage his critical thinking, problem-solving skills, and attention to detail to ensure project success.*
 
-    **Professional Competencies to Develop**:
+    **Professional Competencies to Develop**: *Kao will prioritize effective communication with teammates and work on improving his public speaking skills.*
 
 4. **Hayden Cooper:**
 
