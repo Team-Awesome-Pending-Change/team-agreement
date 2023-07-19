@@ -23,11 +23,11 @@
 
 1. **Reed Voght:**
 
-    **Key Strengths**:
+    **Key Strengths**: *Creativity, Problem Solving, Attention to Detail, and Technical Acumen.*
 
-    **Utilization**:
+    **Utilization**: Reed will utilize his creativity, problem-solving skills, and attention to detail to ensure project success.
 
-    **Professional Competencies to Develop**:
+    **Professional Competencies to Develop**: Reed would like to further hone his technical acumen while simultaneously improving his communication skills.
 
 2. **Reece Renninger:**
 
@@ -41,17 +41,17 @@
 
     **Key Strengths**: *Analytical Thinking, Problem-Solving, Attention to Detail, and Business Acumen.*
 
-    **Utilization**: *Kao will leverage his critical thinking, problem-solving skills, and attention to detail to ensure project success.*
+    **Utilization**: Kao will leverage his critical thinking, problem-solving skills, and attention to detail to ensure project success.
 
-    **Professional Competencies to Develop**: *Kao will prioritize effective communication with teammates and work on improving his public speaking skills.*
+    **Professional Competencies to Develop**: Kao will prioritize effective communication with teammates and work on improving his public speaking skills.
 
 4. **Hayden Cooper:**
 
     **Key Strengths**: *Time Management, Project Planning, Presenting*
 
-    **Utilization**: *I Hayden Cooper will utilize the skills above to help in the guidance of this team project, with my ability to time manage well we can be able to properly time manage and develop a functional app in the time allotted.*
+    **Utilization**: I Hayden Cooper will utilize the skills above to help in the guidance of this team project, with my ability to time manage well we can be able to properly time manage and develop a functional app in the time allotted.
 
-    **Professional Competencies to Develop**: *Hayden Cooper's development will start and end with a better understanding of coding overview with a guided session from a much better developer Reed Vogt and allow a more functional understanding of how to flow and generate a structure in the coding process.*
+    **Professional Competencies to Develop**: Hayden Cooper's development will start and end with a better understanding of coding overview with a guided session from a much better developer Reed Vogt and allow a more functional understanding of how to flow and generate a structure in the coding process.
 
 5. **Ryan Eastman:**
 
