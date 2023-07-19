@@ -65,6 +65,8 @@
 
 ## Conflict Plan
 
+![GIF](https://media.giphy.com/media/FCuDPjGmsbKRbSiii9/giphy.gif)
+
 1. **What is the group process to resolve conflict, when it arises?**
 
     - We will have a discussion and vote on the best solution.
@@ -83,6 +85,8 @@
     - If we still cannot come to a consensus we will flip a coin.
 
 ## Communication Plan
+
+![Talk](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTcxMHpsbWEyeGFwdnFoYjZkcjN4d3dtdmZydjJ4NThkYnAyZmJyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wn2PJV2QRp9VbXwe8h/giphy.gif)
 
 1. **What hours will you be available to communicate?**
 
@@ -168,6 +172,8 @@
     - We will communicate that it's time to merge by tagging our assigned TA in Slack and requesting approval.
 
 ## User Stories
+
+![UserStories](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw0ZDljNzFjOGpocGtrcHd0ZjF1d3BrdjV0bjdmemFzb3doM3J2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a08JEaLsJSAgP7da1j/giphy.gif)
 
 1. **As a user, ...*
 
