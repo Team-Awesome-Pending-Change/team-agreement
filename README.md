@@ -22,32 +22,42 @@
 
 1. **Reed Voght:**
 
-    **Key Strengths**: 
-    **Utilization**: 
-    **Professional Competencies to Develop**: 
+    **Key Strengths**:
+
+    **Utilization**:
+
+    **Professional Competencies to Develop**:
 
 2. **Reece Renninger:**
 
-    **Key Strengths**: 
-    **Utilization**: 
-    **Professional Competencies to Develop**: 
+    **Key Strengths**:
+
+    **Utilization**:
+
+    **Professional Competencies to Develop**:
 
 3. **Kao Saelor:**
 
-    **Key Strengths**: 
-    **Utilization**: 
-    **Professional Competencies to Develop**: 
+    **Key Strengths**:
+
+    **Utilization**:
+
+    **Professional Competencies to Develop**:
 
 4. **Hayden Cooper:**
 
-    **Key Strengths**: 
-    **Utilization**: 
-    **Professional Competencies to Develop**: 
+    **Key Strengths**:
+
+    **Utilization**:
+
+    **Professional Competencies to Develop**:
 
 5. **Ryan Eastman:**
 
     **Key Strengths**: *Leadership, Communication, Problem Solving, Teamwork*
+
     **Utilization**: Ryan will utilize his strengths to help the team stay on track and meet deadlines. He will also help the team communicate effectively and work together to solve problems.
+
     **Professional Competencies to Develop**: Ryan would like to develop his skills in time management and delegation, as well as technical acumen.
 
 ## Conflict Plan
