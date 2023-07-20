@@ -188,6 +188,7 @@
 6. Deck Builder (Stretch Goal): As a user, I want to use the deck builder feature to create my custom deck by selecting individual cards from a list of available cards and saving the newly created deck for future reference.
 
 7. User Account Management: As a user, I want to be able to update my account information, change my password, and manage my saved shipping addresses, so that I can keep my profile up-to-date and secure.
+
 ## UML
 
-- ![UML](./assets/uml.png)
+- ![UML](./assets/FinalProjectWireFrame-DataFlow.png)
