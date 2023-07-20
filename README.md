@@ -175,12 +175,19 @@
 
 ![UserStories](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmw0ZDljNzFjOGpocGtrcHd0ZjF1d3BrdjV0bjdmemFzb3doM3J2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a08JEaLsJSAgP7da1j/giphy.gif)
 
-1. **As a user, ...*
+1. User Registration: As a user, I want to be able to create an account on the website so that I can access my order history, save my shipping details, and manage my own decks if the deck builder feature is implemented.
 
-2. **As an avid card collector, ...*
+2. Browsing Decks: As a user, I want to view a list of available decks of cards so that I can browse and choose the ones I'm interested in purchasing.
 
-3. **As a business owner, ...*
+3. View Deck Details: As a user, I want to click on a specific deck to see its details, including a description, price, and individual card contents, so that I can make an informed decision about whether to purchase it.
 
+4. Adding Decks to Cart: As a user, I want to add decks to my shopping cart so that I can collect multiple decks before proceeding to the checkout process.
+
+5. Purchasing Decks: As a user, I want to be able to complete the purchase of the decks in my cart by providing my shipping details and payment information, so that I can receive the cards at my desired location.
+
+6. Deck Builder (Stretch Goal): As a user, I want to use the deck builder feature to create my custom deck by selecting individual cards from a list of available cards and saving the newly created deck for future reference.
+
+7. User Account Management: As a user, I want to be able to update my account information, change my password, and manage my saved shipping addresses, so that I can keep my profile up-to-date and secure.
 ## UML
 
 - ![UML](./assets/uml.png)
