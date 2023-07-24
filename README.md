@@ -146,7 +146,7 @@
 
 ## Presentation Deck
 
-- [Presentation Deck](https://docs.google.com/presentation/d/1p3QH5GXj5a9vXO1g_6fpy58Xz6tdWITybNS7t41gIFQ/edit?usp=sharing)
+- [Presentation Deck](https://www.canva.com/design/DAFpkXVVHFA/mftLwgrEn955VvcV4Kng0g/edit?utm_content=DAFpkXVVHFA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Git Process
 
